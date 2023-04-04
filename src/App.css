@@ -1,0 +1,13 @@
+.menu {
+  position: absolute;
+  top: 1%;
+  left: 80%;
+}
+.form {
+  position: absolute;
+  top: 18%;
+  left: 30%;
+  scale: 1.5;
+
+}
+

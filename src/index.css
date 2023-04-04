@@ -1,0 +1,17 @@
+.menu {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.form {
+  position: absolute;
+  top: 10%;
+  left: 47.5%;
+  scale: 1.5;
+
+}
+.card{
+  border-color: blue;
+  height: 250px;
+  width: 250px;
+}
